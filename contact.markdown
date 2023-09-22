@@ -1,5 +1,5 @@
 ## Contacts
 
-[!GitHub Profile](github.png)(https://github.com/SravaniSingani)
+![GitHub Profile](github.png)(https://github.com/SravaniSingani)
 
 ---

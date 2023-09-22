@@ -1,4 +1,4 @@
-[Home](portfolio.markdown) |[Contact](contact.markdown)
+[Home](index.markdown) |[Contact](contact.markdown)
 
 ## Singani Sravani
 
